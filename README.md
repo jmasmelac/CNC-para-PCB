@@ -131,7 +131,11 @@ Este diseño fue optimizado para facilitar el ensamblaje, con un enfoque en mant
 
    - Resultado con el motor implementado (placa de dimensiones 2.5cm 1.5cm) sin limpiar
    - ![Resultado de pcb](https://i.imgur.com/PJTkkYW.jpg)
-   - <https://i.imgur.com/i9RbGPb.mp4>
+   - video de funcionamiento
+   - <video width="640" height="360" controls>
+  <source src="https://i.imgur.com/i9RbGPb.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
 
 ---
 
@@ -148,4 +152,3 @@ Este diseño fue optimizado para facilitar el ensamblaje, con un enfoque en mant
 - [Repositorio oficial de GRBL](https://github.com/grbl/grbl)
 - [Especificaciones del DRV8825](https://www.pololu.com/product/2133)
 - [Datasheet del Arduino UNO](https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf)
-
