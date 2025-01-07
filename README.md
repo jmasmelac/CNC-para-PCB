@@ -132,10 +132,7 @@ Este diseño fue optimizado para facilitar el ensamblaje, con un enfoque en mant
    - Resultado con el motor implementado (placa de dimensiones 2.5cm 1.5cm) sin limpiar
    - ![Resultado de pcb](https://i.imgur.com/PJTkkYW.jpg)
    - video de funcionamiento
-   - <video width="640" height="360" controls>
-  <source src="https://i.imgur.com/i9RbGPb.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+   - [Ver video del proyecto](https://i.imgur.com/i9RbGPb.mp4)
 
 ---
 
